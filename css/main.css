@@ -1,0 +1,25 @@
+/* Ref:  http://www.w3schools.com/css/css_syntax.asp */
+
+body { /* General style rules for the body section */
+	background-color:orange;
+	color: green;
+	text-align: center;
+}
+
+h3 { /* Matches elements with h3 tag */
+	color: blue;
+}
+h2 { /* Matches elements with h3 tag */
+	color: blue;
+}
+
+#SimpleDiv { /* Matches element with id=SimpleDiv */
+	background-color: gray;
+
+	color: hotpink;
+
+
+	border-style: solid groove;
+  border-width: 5px;
+	border-color: green;
+}
