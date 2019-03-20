@@ -14,9 +14,9 @@ h2 { /* Matches elements with h3 tag */
 }
 
 #div1 { /* Matches element with id=SimpleDiv */
-	background-color: gray;
+	background-color: teal;
 
-	color: white;
+	color: black;
 
 
 	border-style: solid groove;
