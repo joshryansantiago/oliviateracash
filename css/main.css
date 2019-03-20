@@ -24,6 +24,7 @@ h2 { /* Matches elements with h3 tag */
 	border-color: red;
 	margin: 5%;
 	padding: 6px;
+	float: right;
 	width: 20%;
 }
 #div2 {
