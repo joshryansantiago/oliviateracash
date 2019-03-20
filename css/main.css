@@ -13,13 +13,44 @@ h2 { /* Matches elements with h3 tag */
 	color: blue;
 }
 
-#SimpleDiv { /* Matches element with id=SimpleDiv */
+#div1 { /* Matches element with id=SimpleDiv */
 	background-color: gray;
 
-	color: hotpink;
+	color: white;
 
 
 	border-style: solid groove;
   border-width: 5px;
-	border-color: green;
+	border-color: red;
+	margin: 5%;
+	padding: 6px;
+	width: 20%;
+}
+#div2 {
+	background-color:
+	margin: 5%;
+	padding: 6%;
+	float: right;
+	width: 6px
+}
+#div3 {
+	background-color:
+	margin: 5%;
+	padding: 6%;
+	float: right;
+	width: 6px
+}
+#div4 {
+	background-color:
+	margin: 5%;
+	padding: 6%;
+	float: right;
+	width: 6px
+}
+#div5 {
+	background-color:
+	margin: 5%;
+	padding: 6%;
+	float: right;
+	width: 6px
 }
