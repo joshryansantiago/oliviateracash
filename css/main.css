@@ -28,7 +28,10 @@ h2 { /* Matches elements with h3 tag */
 	width: 20%;
 }
 #div2 {
-	background-color:
+	background-color:red;
+	border-style: solid groove;
+	border-wiidth: 5px;
+	border-color:grey;
 	margin: 5%;
 	padding: 6%;
 	float: left;
