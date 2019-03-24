@@ -28,14 +28,15 @@ h2 { /* Matches elements with h3 tag */
 	width: 20%;
 }
 #div2 {
-	background-color:red;
+	background-color: red;
+	color: black;
 	border-style: solid groove;
-	border-wiidth: 5px;
-	border-color:grey;
+	border-width: 5px;
+	border-color: grey;
 	margin: 5%;
-	padding: 6%;
+	padding: 6px;
 	float: left;
-	width: 6px
+	width: 20%;
 }
 #div3 {
 	background-color:
