@@ -53,9 +53,16 @@ h2 { /* Matches elements with h3 tag */
 	width: 6px
 }
 #div5 {
-	background-color:
+	background-color: teal;
+
+	color: black;
+
+
+	border-style: solid groove;
+  border-width: 5px;
+	border-color: red;
 	margin: 5%;
-	padding: 6%;
+	padding: 6px;
 	float: left;
-	width: 6px
+	width: 20%;
 }
