@@ -48,11 +48,10 @@ h2 { /* Matches elements with h3 tag */
 	width: 20%;
 }
 #div3 {
-	background-color:
-	margin: 5%;
-	padding: 6%;
-	float: left;
-	width: 6px
+	body { /* General style rules for the body section */
+		background-color:hotpink;
+		color: green;
+		text-align: center;
 }
 
 body{
