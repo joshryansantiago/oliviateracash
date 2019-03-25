@@ -23,7 +23,7 @@ h2 { /* Matches elements with h3 tag */
   border-width: 5px;
 	border-color: red;
 	margin: 5%;
-	padding: 6px;
+	padding: 0px;
 	float: left;
 	width: 20%;
 }
