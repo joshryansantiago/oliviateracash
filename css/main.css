@@ -45,12 +45,17 @@ h2 { /* Matches elements with h3 tag */
 	float: left;
 	width: 6px
 }
+
+body{
+	margin:0%;
+}
 #div4 {
-	background-color:
-	margin: 5%;
-	padding: 6%;
-	float: left;
-	width: 6px
+	background-image:url('../images/error.jpg');
+	background-size:cover;
+	background-position:center;
+	height: 100vh;
+	padding: 0%;
+
 }
 #div5 {
 	background-color: teal;
