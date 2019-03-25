@@ -29,7 +29,7 @@ h2 { /* Matches elements with h3 tag */
 }
 
 #showcase{
-	background-image:url('../images/background.jpg');
+	background-image:
 	background-size:cover;
 	background-position:center;
 	height: 100vh;
