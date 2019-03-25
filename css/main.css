@@ -58,7 +58,7 @@ body{
 	margin:0%;
 }
 #div4 {
-	background-image:url('../images/error.jpg');
+	background-image:url("images/error.jpg");
 	background-size:cover;
 	background-position:center;
 	height: 100vh;
